@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/gou"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="购物车"
+        android:textSize="25sp"
+        android:background="#ccc"
+        android:gravity="center_horizontal"
+        />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/Recycler"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/gou"
+        android:layout_above="@id/AllClick"
+        android:layout_marginTop="15dp" />
+    <CheckBox
+        android:id="@+id/AllClick"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="已选(0)"
+        android:textSize="23sp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="15dp"
+        />
+    <TextView
+        android:id="@+id/AllPrice"
+        android:layout_width="200dp"
+        android:layout_height="34dp"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@id/AllClick"
+        android:layout_marginLeft="20dp"
+        android:text="总价(0)"
+        android:textSize="23sp"
+        />
+    <TextView
+
+        android:layout_width="50dp"
+        android:layout_height="34dp"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@id/AllPrice"
+        android:text="下单"
+        android:textSize="23sp"
+        android:background="#1dba1d"
+        />
+</RelativeLayout>

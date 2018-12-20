@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="10dp"
+        >
+        <EditText
+            android:id="@+id/edit_sousuo"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/image_search"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="@mipmap/search"
+            />
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="最近搜索"
+        android:textColor="#dcc70c"
+        />
+    <com.example.yuelian01.flowlayout.FlowLayout
+        android:id="@+id/flowlayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        ></com.example.yuelian01.flowlayout.FlowLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="猜你想找"
+        android:layout_marginTop="15dp"
+        android:background="#394478"
+        />
+    <com.example.yuelian01.flowlayout.FlowLayout
+        android:id="@+id/flowlayout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        ></com.example.yuelian01.flowlayout.FlowLayout>
+</LinearLayout>

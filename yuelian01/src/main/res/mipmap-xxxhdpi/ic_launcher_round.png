@@ -1,0 +1,334 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="F:/work10_monthly2" />
+        <option value="F:/week10monthy" />
+        <option value="F:/work10_monthly" />
+        <option value="F:/work10_week3" />
+        <option value="F:/work10_13" />
+        <option value="F:/work_12" />
+        <option value="F:/work_week_lian" />
+        <option value="F:/week2" />
+        <option value="F:/work10_week2" />
+        <option value="F:/work10_07" />
+        <option value="F:/work10_06" />
+        <option value="F:/pengbo20181203" />
+        <option value="F:/work_10_05" />
+        <option value="F:/work10_04" />
+        <option value="F:/work10_03" />
+        <option value="F:/work10_02" />
+        <option value="F:/work_10_01" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="F:/work10_monthly2" />
+      </list>
+    </option>
+    <option name="lastPath" value="F:/work10_monthly2" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="D:/work9">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-181.5540.7.32.5014246" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1541731314792" />
+              <option name="buildTimestamp" value="1537211824639" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work9_02">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-181.5540.7.32.5014246" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1541761526201" />
+              <option name="buildTimestamp" value="1537211825179" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work9_03">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-181.5540.7.32.5014246" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1541811624165" />
+              <option name="buildTimestamp" value="1537211868526" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work9_04">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-181.5540.7.32.5014246" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1541829070142" />
+              <option name="buildTimestamp" value="1537211839725" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work9_1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-181.5540.7.32.5014246" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1541733689382" />
+              <option name="buildTimestamp" value="1537211824639" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/pengbo20181123">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-181.5540.7.32.5014246" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1543282260270" />
+              <option name="buildTimestamp" value="1537211862104" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/pengbo20181203">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-181.5540.7.32.5014246" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1543884703893" />
+              <option name="buildTimestamp" value="1537211834759" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/week10monthy">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-181.5540.7.32.5014246" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1545270916793" />
+              <option name="buildTimestamp" value="1537211876301" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/week2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-181.5540.7.32.5014246" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1544352421128" />
+              <option name="buildTimestamp" value="1537211877011" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/work09_07">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-181.5540.7.32.5014246" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1542893375676" />
+              <option name="buildTimestamp" value="1537211870538" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/work10_02">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-181.5540.7.32.5014246" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1543539026795" />
+              <option name="buildTimestamp" value="1537211867820" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/work10_03">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-181.5540.7.32.5014246" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1543567018924" />
+              <option name="buildTimestamp" value="1537211864812" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/work10_04">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-181.5540.7.32.5014246" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1543638015442" />
+              <option name="buildTimestamp" value="1537211858839" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/work10_06">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-181.5540.7.32.5014246" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1544013799867" />
+              <option name="buildTimestamp" value="1537211865638" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/work10_07">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-181.5540.7.32.5014246" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1544084478054" />
+              <option name="buildTimestamp" value="1537211857223" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/work10_13">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-181.5540.7.32.5014246" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1544792775150" />
+              <option name="buildTimestamp" value="1537211844629" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/work10_monthly">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-181.5540.7.32.5014246" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1545217668001" />
+              <option name="buildTimestamp" value="1537211843850" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/work10_monthly2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-181.5540.7.32.5014246" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1545277613309" />
+              <option name="buildTimestamp" value="1537211855569" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/work10_week2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-181.5540.7.32.5014246" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1544261657851" />
+              <option name="buildTimestamp" value="1537211852451" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/work10_week3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-181.5540.7.32.5014246" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1545040136020" />
+              <option name="buildTimestamp" value="1537211868494" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/work9_04">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-181.5540.7.32.5014246" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1542019768797" />
+              <option name="buildTimestamp" value="1537211862102" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/work9_05">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-181.5540.7.32.5014246" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1542019955633" />
+              <option name="buildTimestamp" value="1537211862102" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/work9_06">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-181.5540.7.32.5014246" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1542890433103" />
+              <option name="buildTimestamp" value="1537211870538" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/work9_08">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-181.5540.7.32.5014246" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1542621294131" />
+              <option name="buildTimestamp" value="1537211824943" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/work9_09">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-181.5540.7.32.5014246" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1542867538953" />
+              <option name="buildTimestamp" value="1537211873229" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/work9_10">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-181.5540.7.32.5014246" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1542933600572" />
+              <option name="buildTimestamp" value="1537211866561" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/work_10_01">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-181.5540.7.32.5014246" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1543463732871" />
+              <option name="buildTimestamp" value="1537211823400" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/work_10_05">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-181.5540.7.32.5014246" />
+              <option name="productionCode

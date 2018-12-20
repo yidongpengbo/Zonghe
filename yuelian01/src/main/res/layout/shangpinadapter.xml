@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="10dp"
+    >
+    <CheckBox
+        android:id="@+id/PinCheck"
+        android:layout_width="40dp"
+        android:layout_height="40dp" />
+    <ImageView
+        android:id="@+id/PinImage"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:layout_toRightOf="@id/PinCheck"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        />
+    <TextView
+        android:id="@+id/PinTitle"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@id/PinImage"
+        android:layout_marginBottom="15dp"
+        />
+    <TextView
+        android:id="@+id/PinPrice"
+        android:layout_width="30dp"
+        android:layout_height="60dp"
+        android:textColor="#f00"
+        android:layout_toRightOf="@id/PinImage"
+        android:layout_below="@id/PinTitle"
+        />
+
+    <com.example.yuelian01.JiaJian
+        android:id="@+id/PinJiaJian"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_toRightOf="@id/PinPrice"
+        android:layout_below="@id/PinTitle"
+        android:layout_marginLeft="10dp"
+        />
+    <View
+        android:layout_below="@id/PinImage"
+        android:background="#541d58"
+        android:layout_width="match_parent"
+        android:layout_height="3dp"/>
+</RelativeLayout>

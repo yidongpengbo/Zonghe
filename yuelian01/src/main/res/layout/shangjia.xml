@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <CheckBox
+        android:id="@+id/Pin_Check"
+        android:layout_width="40dp"
+        android:layout_height="40dp" />
+    <TextView
+        android:id="@+id/GouName"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_toRightOf="@id/Pin_Check"
+        android:layout_marginLeft="25dp"
+        />
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/Gou_Recycler"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/GouName"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="40dp"
+        ></android.support.v7.widget.RecyclerView>
+    <View
+        android:layout_below="@id/Gou_Recycler"
+        android:background="#541d58"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"/>
+</RelativeLayout>

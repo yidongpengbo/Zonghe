@@ -1,0 +1,54 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="24" />
+      <entry action="$Cut" count="9" />
+      <entry action="$Delete" count="124" />
+      <entry action="$Paste" count="69" />
+      <entry action="$Redo" count="1" />
+      <entry action="$SelectAll" count="109" />
+      <entry action="$Undo" count="3168" />
+      <entry action="AliP3CInspectionAction" count="1" />
+      <entry action="Android.BuildApk" count="3" />
+      <entry action="Android.CreateResourceDirectory" count="1" />
+      <entry action="Android.CreateSampleDataDirectory" count="1" />
+      <entry action="Android.LinkExternalCppProject" count="1" />
+      <entry action="Android.RunAndroidAvdManager" count="4" />
+      <entry action="Android.RunAndroidSdkManager" count="2" />
+      <entry action="Android.SyncProject" count="116" />
+      <entry action="AndroidConnectDebuggerAction" count="6" />
+      <entry action="CheckinFiles" count="2" />
+      <entry action="ClassNameCompletion" count="1519" />
+      <entry action="CloseAllEditors" count="144" />
+      <entry action="CloseAllEditorsButActive" count="3" />
+      <entry action="CloseAllUnmodifiedEditors" count="1" />
+      <entry action="CloseAllUnpinnedEditors" count="2" />
+      <entry action="CloseContent" count="2" />
+      <entry action="CloseProject" count="68" />
+      <entry action="CommentByBlockComment" count="30" />
+      <entry action="CommentByLineComment" count="103" />
+      <entry action="ConfigureIcs" count="1" />
+      <entry action="Debug" count="197" />
+      <entry action="DelegateMethods" count="3" />
+      <entry action="DialogOkAction Enter" count="47" />
+      <entry action="DialogOkAction 空格" count="10" />
+      <entry action="EditorBackSpace" count="31783" />
+      <entry action="EditorChooseLookupItem" count="36777" />
+      <entry action="EditorChooseLookupItemReplace" count="3" />
+      <entry action="EditorCopy" count="1306" />
+      <entry action="EditorCut" count="496" />
+      <entry action="EditorDelete" count="13" />
+      <entry action="EditorDeleteLine" count="8" />
+      <entry action="EditorDeleteToWordStart" count="2" />
+      <entry action="EditorDown" count="31893" />
+      <entry action="EditorDuplicate" count="1" />
+      <entry action="EditorEnter" count="18578" />
+      <entry action="EditorEscape" count="1" />
+      <entry action="EditorIndentSelection" count="7" />
+      <entry action="EditorLeft" count="6272" />
+      <entry action="EditorLineEnd" count="253" />
+      <entry action="EditorNextWord" count="1" />
+      <entry action="EditorNextWordWithSelection" count="1" />
+      <entry action="EditorPaste" count="2390" />
+      <entry action="EditorRight" count="11174" />
+      <entry action="EditorSplitLine
